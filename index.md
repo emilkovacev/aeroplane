@@ -1,6 +1,6 @@
 ---
-title: Home
+title: 
 layout: default
+display: Title Page
 ---
 
-# Welcome!
