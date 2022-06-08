@@ -1,6 +1,9 @@
 ---
-title: 
+title: Home
 layout: default
-display: Title Page
+display: Aeroplane
+permalink: /
+
 ---
 
+Welcome to aeroplane, a lightweight jekyll template for your websiting needs!
