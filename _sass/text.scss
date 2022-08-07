@@ -15,7 +15,17 @@ h2, h3, h4, h5, h6 {
 }
 
 p, a { 
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.5em;
     font-weight: 300;
+}
+
+code {
+    background-color: #eaeaea;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+li {
+    font-size: 16px;
 }
